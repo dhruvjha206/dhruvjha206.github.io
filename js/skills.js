@@ -1,10 +1,3 @@
-//
-//  Portfolio
-//  Skills.JS
-//
-//  Created By Ryan Maugin on 04/05/17
-//
-
 $(document).ready(function () {
 
     // Containers

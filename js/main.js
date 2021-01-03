@@ -5,12 +5,4 @@ $(document).ready(function () {
     $('#email-btn').click(function () {
         window.open('mailto:jasminejerry@yahoo.in?subject=Your subject');
     });
-
-    /**
-     *
-     * Handles the animation for different elements
-     *
-     */
-     
-
 })

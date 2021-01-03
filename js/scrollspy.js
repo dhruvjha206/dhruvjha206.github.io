@@ -1,10 +1,3 @@
-//
-//  Portfolio
-//  scrollSpy.js
-//
-//  Created By Ryan Maugin on 01/05/17
-//
-
 //noinspection JSUnresolvedFunction
 $("#myNavBar").find("a").on("click", function (event) {
 
